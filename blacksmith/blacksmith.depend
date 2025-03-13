@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1741876289 source:c:\users\gabbi\documents\gabbicodeblocks\blacksmith\blkcmith.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"blkcmith.h"
+
+1741877877 c:\users\gabbi\documents\gabbicodeblocks\blacksmith\blkcmith.h
+
+1741876441 source:c:\users\gabbi\documents\gabbicodeblocks\blacksmith\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"blkcmith.h"
+
